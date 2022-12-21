@@ -4,6 +4,7 @@ Minting NFT using ERC-721 token on Polygon test network
 ## TechStack Used 🎯
 <li>Node js</li>
 <li>Solidity</li>
+<li>Mocha - For testing smart contract</li>
 
 ## Prerequisites ✅
 <li>Truffle enviornment and Ganache Installed</li>
