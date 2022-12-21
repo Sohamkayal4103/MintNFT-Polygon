@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type" : "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type" : "Type",
+      "value": "Image"
+    }
+  ],
+  "description": "Soham Kayal wearing polygon t-shirt",
+  "image": "ipfs.io/ipfs/QmRJ6mNfyH7cgBCmTYAYJpTPxVNXbFK2urFY1SL9aA2WMb",
+  "name": "Soham Kayal"
+}
