@@ -29,9 +29,13 @@ https://github.com/[your_github_username]/MintNFT-Polygon.git
  truffle init
  ```
 6. Connect ganache by importing truffle-config.js
-7. Start the website locally using
+7. Truffle Migrate 
  ```
- npm start
+ truffle migrate --network polygonTestNet
+ ```
+8. Start the website locally using
+ ```
+ node .\scripts\MintingNFT.js
  ```
  
  ### Do drop a :star: if you find this repository useful . 
